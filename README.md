@@ -21,15 +21,17 @@
   hey there <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="30px"/>
 </h1>
 
+### About Me :
+Just a person who likes programming and mathematics.
 ### Languages and Tools:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.python.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.r-project.org/)
 
 ### My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=dark&locale=ru&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=dark&locale=en&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=dark&locale=ru&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=dark&locale=en&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
 
 
 
