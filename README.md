@@ -31,14 +31,14 @@ Just a person who likes programming and mathematics.
 ### My Stats:
 <!--
 Themes
-nord_dark  codeSTACKr
-nord  codeSTACKr
+nord_dark  codeSTACKr prussian
+nord  codeSTACKr prussian
 -->
-[![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=nord&locale=en&rank_icon=github&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=prussian&hide_border=True&locale=en&rank_icon=github&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=nord&locale=en&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=prussian&locale=en&hide_border=True&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GandlinAlexandr/GandlinAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
