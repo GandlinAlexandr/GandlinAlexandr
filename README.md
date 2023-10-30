@@ -4,6 +4,9 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://stepik.org/users/79694206/profile">
+    <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge" alt="Twitter Badge"/>
+  </a>
 </div>
 
 <h1 align="center">
