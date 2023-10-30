@@ -33,7 +33,8 @@ Just a person who likes programming and mathematics.
 
 [<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40"/>](https://jupyter.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>](https://colab.research.google.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"  width="40" height="40"/>](https://posit.co/products/open-source/rstudio/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>](https://posit.co/products/open-source/rstudio/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" height="40"/>](https://inkscape.org/)
 
 
 ### My Stats:
