@@ -26,9 +26,9 @@ Just a person who likes programming and mathematics.
 
 ### Languages and Tools:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://matplotlib.org/_static/images/documentation.svg" width="40" height="40"/>](https://matplotlib.org/)
 [<img src="https://numpy.org/images/logo.svg" width="40" height="40"/>](https://numpy.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>](https://pandas.pydata.org/)
-[<img src="https://matplotlib.org/_static/images/documentation.svg" width="40" height="40"/>](https://matplotlib.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>](https://www.r-project.org/)
 
 [<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40"/>](https://jupyter.org/)
