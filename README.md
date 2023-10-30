@@ -31,8 +31,8 @@ Just a person who likes programming and mathematics.
 ### My Stats:
 <!--
 Themes
-nord_dark  codeSTACKr prussian
-nord  codeSTACKr prussian
+nord_dark  codeSTACKr prussian dark
+nord  codeSTACKr prussian dark
 -->
 [![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
