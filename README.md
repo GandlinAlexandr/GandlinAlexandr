@@ -26,7 +26,14 @@ Just a person who likes programming and mathematics.
 
 ### Languages and Tools:
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>](https://www.python.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.r-project.org/)
+[<img src="https://numpy.org/images/logo.svg" width="40" height="40"/>](https://numpy.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>](https://pandas.pydata.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>](https://www.r-project.org/)
+
+[<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40"/>](https://jupyter.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>](https://colab.research.google.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"  width="40" height="40"/>](https://posit.co/products/open-source/rstudio/)
+
 
 ### My Stats:
 <!--
