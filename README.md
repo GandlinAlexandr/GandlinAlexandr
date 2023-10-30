@@ -31,6 +31,8 @@ Just a person who likes programming and mathematics.
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>](https://pandas.pydata.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/>](https://www.r-project.org/)
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>](https://ubuntu.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="40" height="40"/>](https://www.microsoft.com/ru-ru/software-download/windows10)
 [<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="40" height="40"/>](https://jupyter.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>](https://colab.research.google.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>](https://posit.co/products/open-source/rstudio/)
