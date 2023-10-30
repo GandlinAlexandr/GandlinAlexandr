@@ -30,11 +30,11 @@ Just a person who likes programming and mathematics.
 
 ### My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=dark&locale=en&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=nord&locale=en&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=dark&locale=en&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=nord&locale=en&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GandlinAlexandr/GandlinAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
