@@ -25,7 +25,7 @@
 Just a person who likes programming and mathematics.
 
 ### Languages and Tools:
-[<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>](https://www.python.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.r-project.org/)
 
 ### My Stats:
