@@ -29,7 +29,11 @@ Just a person who likes programming and mathematics.
 [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.r-project.org/)
 
 ### My Stats:
-
+<!--
+Themes
+nord_dark  codeSTACKr
+nord  codeSTACKr
+-->
 [![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=nord&locale=en&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
