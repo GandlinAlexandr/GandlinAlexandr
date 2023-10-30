@@ -10,7 +10,7 @@
   <a href="https://www.researchgate.net/profile/Alexandr-Gandlin">
     <img src="https://img.shields.io/badge/ResearchGate-08bfbc?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/></a>
   <a href="https://stepik.org/users/79694206/profile">
-    <img src="https://img.shields.io/badge/Stepik-67cc66?style=for-the-badge" alt="Stepic Badge"/></a>
+    <img src="https://img.shields.io/badge/Stepik-white?style=for-the-badge" alt="Stepic Badge"/></a>
 </div>
 
 <div id="count" align="center">
