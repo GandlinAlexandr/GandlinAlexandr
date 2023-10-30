@@ -45,11 +45,11 @@ Themes
 nord_dark  codeSTACKr prussian dark
 nord  codeSTACKr prussian dark
 -->
-[![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=codeSTACKr)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=dark&hide_border=False&locale=en&rank_icon=github&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=codeSTACKr&hide_border=False&locale=en&rank_icon=github&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=dark&locale=en&hide_border=False&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=codeSTACKr&locale=en&hide_border=False&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GandlinAlexandr/GandlinAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
