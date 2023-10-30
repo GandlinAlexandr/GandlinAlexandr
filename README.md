@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXB6dDMzZjJuMWYxb2xndDB0azJtdng0YzVnaTFmMjkwcmI4M211eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zcc3ZeeZ5ztdw1oNSB/giphy.gif" width="100"/>
 </div>
@@ -7,6 +6,10 @@
   <a href="https://stepik.org/users/79694206/profile">
     <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge" alt="Twitter Badge"/>
   </a>
+</div>
+
+<div id="count" align="center">
+  <img src="https://komarev.com/ghpvc/?username=GandlinAlexandr&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
