@@ -36,7 +36,7 @@ nord  codeSTACKr
 -->
 [![Profile Summary Sard](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GandlinAlexandr&theme=nord_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=nord&locale=en&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=nord&locale=en&rank_icon=github&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=nord&locale=en&card_width=700px (approx.))](https://github.com/anuraghazra/github-readme-stats)
 
