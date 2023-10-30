@@ -22,8 +22,20 @@
 </h1>
 
 ### Languages and Tools:
- [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.python.org/)
-[ <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.r-project.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.python.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Spring" alt="Spring" width="40" height="40"/>](https://www.r-project.org/)
+
+### My Stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GandlinAlexandr&show_icons=true&theme=dark&locale=ru&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GandlinAlexandr&layout=compact&theme=dark&locale=ru&card_width=500px (approx.))](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 <!--
 **GandlinAlexandr/GandlinAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
