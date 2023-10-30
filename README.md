@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/alexandr-gandlin-43467727a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn Badge"/></a>
   <a href="https://www.webofscience.com/wos/author/record/B-7535-2018">
-    <img src="https://img.shields.io/badge/ORCID-grey?style=for-the-badge&logo=ORCID" alt="ORCID Badge"/></a>
+    <img src="https://img.shields.io/badge/ORCID-5d33bf?style=for-the-badge&logo=ORCID" alt="ORCID Badge"/></a>
   <a href="https://www.researchgate.net/profile/Alexandr-Gandlin">
-    <img src="https://img.shields.io/badge/ResearchGate-grey?style=for-the-badge&logo=ResearchGate" alt="ResearchGate Badge"/></a>
+    <img src="https://img.shields.io/badge/ResearchGate-08bfbc?style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate Badge"/></a>
   <a href="https://stepik.org/users/79694206/profile">
     <img src="https://img.shields.io/badge/Stepik-black?style=for-the-badge" alt="Stepic Badge"/></a>
 </div>
