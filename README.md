@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alexandr-gandlin-43467727a/">
+  <a href="https://www.linkedin.com/in/alexander-gandlin-43467727a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn" alt="LinkedIn Badge"/></a>
   <a href="https://www.webofscience.com/wos/author/record/B-7535-2018">
     <img src="https://img.shields.io/badge/ORCID-5d33bf?style=for-the-badge&logo=ORCID" alt="ORCID Badge"/></a>
